@@ -1,0 +1,10 @@
+.cart{
+    width: 200px;
+    height: 350px;
+    border: 1px solid black;
+}
+
+.cart img{
+    display: inline-block;
+    width: 100%;
+}
